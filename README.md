@@ -1,4 +1,4 @@
-# binary_class
+
 A binary classification of image using cnn.
 the data used here is a 175 no. lf images divided equally into two classes: happy and sad. The data is basic google images.
 keras.data is used to load the datapipeline.
